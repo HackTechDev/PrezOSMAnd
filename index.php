@@ -42,11 +42,28 @@
 			<div class="slides">
 <?php
 
-include("apero.php");
+include("conf.php");
 
 include("couverture.php");
 
 include("sommaire.php"); 
+
+include("openstreetmap.php"); 
+
+include("version.php"); 
+
+include("fonctionnalite.php"); 
+
+include("affichage.php"); 
+
+include("donnees.php"); 
+
+include("securite.php"); 
+
+include("pietonroue.php"); 
+
+include("geographie.php"); 
+
 
 include("liens.php"); 
 

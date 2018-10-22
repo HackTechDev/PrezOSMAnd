@@ -1,7 +1,7 @@
                 <section>
-                    <h1>Raspberry Pi</h1>
-                    <h3>Le nano-ordinateur</h3>
-                    <img src="image/512px-Raspberry_Pi_logo.png" width="15%" style="border: 0;box-shadow: none;background: transparent;" class="nostyle">
+                    <h1>OsmAnd</h1>
+                    <h3>OpenStreetMap et l'Android</h3>
+                    <img src="image/.png" width="15%" style="border: 0;box-shadow: none;background: transparent;" class="nostyle">
                     <br/>
                     <br/>
                     <p>
