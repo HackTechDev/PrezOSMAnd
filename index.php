@@ -65,6 +65,13 @@ include("pietonroue.php");
 include("geographie.php"); 
 
 
+include("installation.php"); 
+
+include("configuration.php"); 
+
+include("utilisation.php"); 
+
+
 include("liens.php"); 
 
 include("ilard.php");    
