@@ -1,9 +1,7 @@
                 <section>
-                    <h1>Configuration</h1>
+                    <h3>Configuration</h3>
                     <p>
-                        <ul>
-                        <li></li>
-                        </ul>
+                        <img src="image/screengrab-20181022-190845.jpg" width="300px" style="border: 0;box-shadow: none;background: transparent;" class="nostyle">
                     </p>
                 
                 </section>

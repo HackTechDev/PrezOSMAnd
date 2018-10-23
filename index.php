@@ -46,7 +46,10 @@ include("conf.php");
 
 include("couverture.php");
 
-include("sommaire.php"); 
+include("sommaire1.php"); 
+include("sommaire2.php"); 
+
+include("presentation.php"); 
 
 include("openstreetmap.php"); 
 
@@ -66,8 +69,13 @@ include("geographie.php");
 
 
 include("installation.php"); 
+include("installation1.php"); 
+include("installation2.php"); 
 
 include("configuration.php"); 
+
+include("1ervue.php"); 
+include("1ervue1.php"); 
 
 include("utilisation.php"); 
 

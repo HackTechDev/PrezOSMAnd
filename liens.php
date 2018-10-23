@@ -1,12 +1,11 @@
 
-                <section style="text-align: left;">
-                    <h1>Des liens</h1>
+                <section>
+                    <h3>Des liens</h3>
                     <p>
                         <ul>
-                                <li>Association FR des Utilisateurs du RPi : <a href="http://forum.raspfr.org/">forum.raspfr.org</a></li>
-                                <li>Gotronic : <a href="http://www.gotronic.fr/">gotronic.fr</a></li>
-                                <li>Raspberry Pi : <a href="://www.raspberrypi.org/">raspberrypi.org</a></li>
-                                <li>Framboise314 : <a href="http://www.framboise314.fr/">framboise314.fr</a></li>
+                                <li>OsmAnd - Offline Mobile Maps and Navigation : <a href=https://osmand.net/">https://osmand.net/</a></li>
+                                <li>osmand - Forum français sur openstreetmap: <a href="https://forum.openstreetmap.fr/viewforum.php?f=20">https://forum.openstreetmap.fr/viewforum.php?f=20</a></li>
+                                <li>OsmAnd : <a href="https://wiki.openstreetmap.org/wiki/OsmAnd">https://wiki.openstreetmap.org/wiki/OsmAnd</a></li>
                         </ul>
                     </p>
                 </section>

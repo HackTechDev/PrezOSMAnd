@@ -1,6 +1,6 @@
                 <section>
-                    <h1>L'Association ILArd</h1>
-                    <h3>Informatique Libre en Ardennes</h3>
+                    <h3>L'Association ILArd</h3>
+                    <h4>Informatique Libre en Ardennes</h4>
                     <p>
                         <a href="http://ilard.fr">http://ilard.fr</a>
                         <ul>

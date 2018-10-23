@@ -1,7 +1,7 @@
                 <section>
-                    <h1>OsmAnd</h1>
-                    <h3>OpenStreetMap et l'Android</h3>
-                    <img src="image/.png" width="15%" style="border: 0;box-shadow: none;background: transparent;" class="nostyle">
+                    <h3>Logiciel OsmAnd</h3>
+                    <h4>Cartographie et navigation dans sa poche</h4>
+                    <img src="image/Openstreetmap_logo.svg.png" width="200px" style="border: 0;box-shadow: none;background: transparent;" class="nostyle">&nbsp;&nbsp;
                     <br/>
                     <br/>
                     <p>

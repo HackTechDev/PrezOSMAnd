@@ -1,10 +1,6 @@
                 <section>
-                    <h1>Utilisation</h1>
+                    <h3>La pratique</h3>
                     <p>
-                        <ul>
-                        <li></li>
-                        </ul>
                     </p>
-                
                 </section>
 

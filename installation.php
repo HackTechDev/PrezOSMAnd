@@ -1,9 +1,8 @@
                 <section>
-                    <h1>Installation</h1>
+                    <h3>Installation</h3>
                     <p>
-                        <ul>
-                        <li></li>
-                        </ul>
+A partir du magasin  d'applications libres F-Droid 
+<a href="https://f-droid.org/fr/">https://f-droid.org/fr/</a>
                     </p>
                 
                 </section>
