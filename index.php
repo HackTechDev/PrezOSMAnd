@@ -55,6 +55,15 @@ include("openstreetmap.php");
 
 include("version.php"); 
 
+include("installation.php"); 
+include("installation1.php"); 
+include("installation2.php"); 
+
+include("configuration.php"); 
+
+include("1ervue.php"); 
+include("1ervue1.php"); 
+
 include("fonctionnalite.php"); 
 
 include("affichage.php"); 
@@ -67,15 +76,6 @@ include("pietonroue.php");
 
 include("geographie.php"); 
 
-
-include("installation.php"); 
-include("installation1.php"); 
-include("installation2.php"); 
-
-include("configuration.php"); 
-
-include("1ervue.php"); 
-include("1ervue1.php"); 
 
 include("utilisation.php"); 
 
